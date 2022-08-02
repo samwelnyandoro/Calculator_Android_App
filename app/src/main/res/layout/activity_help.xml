@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="376dp"
+        android:layout_height="70dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="40dp"
+        android:text="Calculator Buttons and their Meanings"
+        android:textSize="21dp" />
+
+    <TextView
+        android:layout_width="148dp"
+        android:layout_height="38dp"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="150dp"
+        android:text="/  :  Division"
+        android:textSize="18sp" />
+
+    <TextView
+        android:layout_width="160dp"
+        android:layout_height="35dp"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="175dp"
+        android:text="×  :  Multiplication"
+        android:textSize="18sp" />
+
+    <TextView
+        android:layout_width="160dp"
+        android:layout_height="35dp"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="200dp"
+        android:text="+  :  Addition"
+        android:textSize="18sp" />
+
+    <TextView
+        android:layout_width="160dp"
+        android:layout_height="35dp"
+        android:layout_marginLeft="103dp"
+        android:layout_marginTop="225dp"
+        android:text="-  :  Subtraction"
+        android:textSize="18sp" />
+
+    <TextView
+        android:layout_width="160dp"
+        android:layout_height="35dp"
+        android:layout_marginLeft="103dp"
+        android:layout_marginTop="250dp"
+        android:text=".  :  Decimal Point"
+        android:textSize="18sp" />
+
+    <TextView
+        android:layout_width="160dp"
+        android:layout_height="35dp"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="275dp"
+        android:text="√  :  Square Root"
+        android:textSize="18sp" />
+
+    <TextView
+        android:layout_width="160dp"
+        android:layout_height="35dp"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="304dp"
+        android:text="C  :  All Clear"
+        android:textSize="18sp" />
+
+    <TextView
+        android:layout_width="199dp"
+        android:layout_height="35dp"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="330dp"
+        android:text="\u232b  :  BackSpace"
+        android:textSize="18sp" />
+
+    <TextView
+        android:layout_width="160dp"
+        android:layout_height="35dp"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="355dp"
+        android:text="=  :  Result"
+        android:textSize="18sp" />
+
+    <TextView
+        android:layout_width="209dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="380dp"
+        android:text="^   :  Raised to Power"
+        android:textSize="18sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="405dp"
+        android:text="....  :  Converter and More"
+        android:textSize="18sp" />
+</RelativeLayout>
